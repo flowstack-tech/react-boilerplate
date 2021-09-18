@@ -1,0 +1,10 @@
+export type { DialogProps } from "./dialog";
+export { default as Dialog } from "./dialog";
+export type { DialogActionsProps } from "./dialog-actions";
+export { default as DialogActions } from "./dialog-actions";
+export type { DialogContentProps } from "./dialog-content";
+export { default as DialogContent } from "./dialog-content";
+export type { DialogContentTextProps } from "./dialog-content-text";
+export { default as DialogContentText } from "./dialog-content-text";
+export type { DialogTitleProps } from "./dialog-title";
+export { default as DialogTitle } from "./dialog-title";
